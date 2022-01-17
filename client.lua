@@ -4,6 +4,8 @@ Citizen.CreateThread(function()
     -- =--------------------- [GTA V: Single player] ---------------------=
     -- ====================================================================
 
+    EnableIpl("dt1_03_gr_closed", true)
+
     -- Michael: -802.311, 175.056, 72.8446
     Michael.LoadDefault()
 
